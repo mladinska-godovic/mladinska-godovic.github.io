@@ -16,7 +16,10 @@ termin | dogajanje
 5\. 10. 2024 19:00 | Vaje mladinskega pevskega zbora, potem predstavitev
 12\. 10. 2024 19:00 | Tezejska molitev v Spodnji Idriji
 19\. 10. 2024 18:30 | Pevske vaje
-**26\. 10. 2024** | **Pevske vaje in zabavni večer**
+26\. 10. 2024 | Pevske vaje <del>in zabavni večer</del>
+**2\. 11. 2024 19:00** | **Pevske vaje**
+9\. 11. 2024 20:00 | predstavitev ali film
+16\. 11. 2024 20:00 | predstavitev ali film ali tema
 
 ## Termini vaj mladinskega zbora:
 - 19\.10, 
