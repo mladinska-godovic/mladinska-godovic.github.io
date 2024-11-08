@@ -13,13 +13,13 @@ termin | dogajanje
 14\. 9. 2024 20:00 | Družabni večer
 21\. 9. 2024 | Stična mladih (mladinska skupina odpade)
 28\. 9. 2024 20:00 | Film
-5\. 10. 2024 19:00 | Vaje mladinskega pevskega zbora, potem predstavitev
+5\. 10. 2024 19:00 | Vaje mladinskega pevskega zbora, potem predstavitev (Referenca)
 12\. 10. 2024 19:00 | Tezejska molitev v Spodnji Idriji
 19\. 10. 2024 18:30 | Pevske vaje
 26\. 10. 2024 | Pevske vaje <del>in zabavni večer</del>
-**2\. 11. 2024 19:00** | **Pevske vaje**
-9\. 11. 2024 20:00 | predstavitev ali film
-16\. 11. 2024 20:00 | predstavitev ali film ali tema
+2\. 11. 2024 19:00 | Pevske vaje
+**9\. 11. 2024 20:00** | **predstavitev (Vid - Hunger games)**
+16\. 11. 2024 20:00 | film ali tema
 
 ## Termini vaj mladinskega zbora:
 - 19\.10, 
