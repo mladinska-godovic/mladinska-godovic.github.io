@@ -1,7 +1,7 @@
 # Mladinska skupina Godovič
 ## Program dela
 ### Film
-Letos gledamo serijo "The Chosen" vsakič po eno epizodo
+Letos gledamo serijo "The Chosen" vsakič po eno epizodo.
 ### Predstavitve
 Predstavljamo svoj najljubši film. Pred tem je neobvezna naloga, da ta film pogledamo.
 
