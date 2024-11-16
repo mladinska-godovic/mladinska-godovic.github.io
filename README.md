@@ -1,9 +1,4 @@
 # Mladinska skupina Godovič
-## Program dela
-### Film
-Letos gledamo serijo "The Chosen" vsakič po eno epizodo.
-### Predstavitve
-Predstavljamo svoj najljubši film. Pred tem je neobvezna naloga, da ta film pogledamo.
 
 ## Srečanja v letu 2024/25
 
@@ -18,8 +13,9 @@ termin | dogajanje
 19\. 10. 2024 18:30 | Pevske vaje
 26\. 10. 2024 | Pevske vaje <del>in zabavni večer</del>
 2\. 11. 2024 19:00 | Pevske vaje
-**9\. 11. 2024 20:00** | **predstavitev (Vid - Hunger games)**
-16\. 11. 2024 20:00 | film ali tema
+9\. 11. 2024 20:00 | predstavitev (Vid - Hunger games)
+**16\. 11. 2024 20:00** | **film**
+23\. 11. 2024 | zabavni večer ali tema
 
 ## Termini vaj mladinskega zbora:
 - 19\.10, 
@@ -29,3 +25,23 @@ termin | dogajanje
 - 7\.12, 
 - 21\.12, 
 - 27\.12->koncert
+
+## Program dela
+### Film
+Letos gledamo serijo "The Chosen" vsakič po eno epizodo.
+### Predstavitve
+Predstavljamo svoj najljubši film. Pred tem je neobvezna naloga, da ta film pogledamo.
+
+Predvideni datumi predstavitev
+
+datum | ... | ...
+------|-----|-----
+5\. 10. 2024 | referenca
+9\. 11. 2024 | Vid
+~7\. 12. 2024 | Marko | Anton
+~januar | Marko | Anton
+~februar | Urban | Lenart
+~marec | Ivana | Ema
+~april | Jakob K. | Anže
+~maj | Nik | Žiga
+
