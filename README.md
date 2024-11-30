@@ -15,9 +15,10 @@ termin | dogajanje
 2\. 11. 2024 19:00 | Pevske vaje
 9\. 11. 2024 20:00 | predstavitev (Vid - Hunger games)
 16\. 11. 2024 20:00 | film
-**23\. 11. 2024 19:00** | **Pevske vaje, tema**
-30\. 11. 2024 20:00 | Zabavni večer
-7\. 12. 2024 20:00 | Prestavitev (Marko, Anton)
+23\. 11. 2024 19:00 | Pevske vaje, tema
+**30\. 11. 2024 19:00** | **Predavanje (Benjamin Tomažič)**
+7\. 12. 2024 | Pevske vaje, zabavni večer
+14\. 12. 2024 20:00 | Prestavitev (Marko, Anton)
 
 ## Termini vaj mladinskega zbora:
 - 19\.10, 
@@ -40,7 +41,7 @@ datum | ... | ...
 ------|-----|-----
 5\. 10. 2024 | referenca
 9\. 11. 2024 | Vid
-7\. 12. 2024 | Marko | Anton
+14\. 12. 2024 | Marko | Anton
 ~januar | Urban | Lenart
 ~februar | Ivana | Ema
 ~marec | Jakob K. | Anže
