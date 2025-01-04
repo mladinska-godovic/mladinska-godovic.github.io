@@ -17,18 +17,14 @@ termin | dogajanje
 16\. 11. 2024 20:00 | film
 23\. 11. 2024 19:00 | Pevske vaje, tema
 30\. 11. 2024 19:00 | Predavanje (Benjamin Tomažič)
-**7\. 12. 2024 19:00** | **Pevske vaje**
+7\. 12. 2024 19:00 | Pevske vaje
 14\. 12. 2024 20:00 | zabavni večer
-<!-- 14\. 12. 2024 20:00 | Prestavitev (Marko, Anton) -->
+21\. 12. 2024 20:00 | /
+28\. 12. 2024 20:00 | /
+**4\. 1. 2025 20:00** | **Film / tema**
+11\. 1. 2025 20:00 | tema / film
+18\. 1. 2025 20:00 | Predstavitev (Marko, Anton)
 
-## Termini vaj mladinskega zbora:
-- 19\.10, 
-- 26\.10, 
-- 2\.11, 
-- 15\.11, 
-- 7\.12, 
-- 21\.12, 
-- 27\.12->koncert
 
 ## Program dela
 ### Film
@@ -42,7 +38,7 @@ datum | ... | ...
 ------|-----|-----
 5\. 10. 2024 | referenca
 9\. 11. 2024 | Vid
-21\. 12. 2024? | Marko | Anton
+18\. 1. 2025 | Marko | Anton
 ~januar | Urban | Lenart
 ~februar | Ivana | Ema
 ~marec | Jakob K. | Anže
