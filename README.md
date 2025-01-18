@@ -14,16 +14,17 @@ termin | dogajanje
 26\. 10. 2024 | Pevske vaje <del>in zabavni večer</del>
 2\. 11. 2024 19:00 | Pevske vaje
 9\. 11. 2024 20:00 | predstavitev (Vid - Hunger games)
-16\. 11. 2024 20:00 | film
+16\. 11. 2024 20:00 | Film
 23\. 11. 2024 19:00 | Pevske vaje, tema
 30\. 11. 2024 19:00 | Predavanje (Benjamin Tomažič)
 7\. 12. 2024 19:00 | Pevske vaje
 14\. 12. 2024 20:00 | zabavni večer
 21\. 12. 2024 20:00 | /
 28\. 12. 2024 20:00 | /
-**4\. 1. 2025 20:00** | **Film / tema**
-11\. 1. 2025 20:00 | tema / film
-18\. 1. 2025 20:00 | Predstavitev (Marko, Anton)
+4\. 1. 2025 20:00 | Film
+11\. 1. 2025 20:00 | Zabavni večer
+18\. 1. 2025 20:00 | /
+25\. 1. 2025 20:00 | Predstavitev (Marko, Anton)
 
 
 ## Program dela
