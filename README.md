@@ -15,7 +15,7 @@ termin | dogajanje
 2\. 11. 2024 19:00 | Pevske vaje
 9\. 11. 2024 20:00 | predstavitev (Vid - Hunger games)
 16\. 11. 2024 20:00 | Film
-23\. 11. 2024 19:00 | Pevske vaje, tema
+23\. 11. 2024 19:00 | Pevske vaje, tema (Svoboda)
 30\. 11. 2024 19:00 | Predavanje (Benjamin Tomažič)
 7\. 12. 2024 19:00 | Pevske vaje
 14\. 12. 2024 20:00 | zabavni večer
@@ -24,7 +24,7 @@ termin | dogajanje
 4\. 1. 2025 20:00 | Film
 11\. 1. 2025 20:00 | Zabavni večer
 18\. 1. 2025 20:00 | /
-25\. 1. 2025 20:00 | Predstavitev (Marko, Anton)
+**25\. 1. 2025 20:00** | **Pevske vaje, tema (Sveto pismo)**
 
 
 ## Program dela
@@ -39,7 +39,7 @@ datum | ... | ...
 ------|-----|-----
 5\. 10. 2024 | referenca
 9\. 11. 2024 | Vid
-18\. 1. 2025 | Marko | Anton
+~januar | Marko | Anton
 ~januar | Urban | Lenart
 ~februar | Ivana | Ema
 ~marec | Jakob K. | Anže
