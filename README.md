@@ -24,7 +24,9 @@ termin | dogajanje
 4\. 1. 2025 20:00 | Film
 11\. 1. 2025 20:00 | Zabavni večer
 18\. 1. 2025 20:00 | /
-**25\. 1. 2025 20:00** | **Pevske vaje, tema (Sveto pismo)**
+25\. 1. 2025 20:00 | Pevske vaje, tema (Sveto pismo)
+1\. 2. 2025 20:00 | Svetopisemski maraton
+8\. 2. 2025 20:00 | Film
 
 
 ## Program dela
